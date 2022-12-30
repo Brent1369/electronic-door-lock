@@ -1,5 +1,6 @@
 # electronic-door-lock
 
+
 4-7 uur opzoeken hoe ik het design ging doen en welke knoppen/kabels en slot type ik ging gebruiken en hoe ik deze ging installeren
 5-6 uur gaten boren en hout uitkappen met beitel
 5-7 kabels, powersupply knop installeren 
