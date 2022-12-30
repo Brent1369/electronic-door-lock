@@ -4,6 +4,7 @@
 4-7 uur opzoeken hoe ik het design ging doen en welke knoppen/kabels en slot type ik ging gebruiken en hoe ik deze ging installeren
 5-6 uur gaten boren en hout uitkappen met beitel
 5-7 kabels, powersupply knop installeren 
+0.5-1 uur readme en fotos trekken
 
 ![DSC_0095](https://user-images.githubusercontent.com/69217508/210074661-22064b44-b0c2-4f86-bca3-3b69c288d55d.JPG)
 
