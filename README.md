@@ -13,5 +13,6 @@
 ![PXL_20221230_132934242](https://user-images.githubusercontent.com/69217508/210075412-07efc192-be15-45dc-a4bb-c21f471ddf02.jpg)
 ![PXL_20221230_132946418](https://user-images.githubusercontent.com/69217508/210075414-d183c659-1a14-44dd-a458-8f70f3a355cb.jpg)
 ![PXL_20221230_132952309](https://user-images.githubusercontent.com/69217508/210075417-fe1cb5a2-5641-4022-8d85-e032bb0ba69e.jpg)
-![Uploading PXL_20221230_132959315.jpg…]()
-![Uploading PXL_20221230_133004093.jpg…]()
+![PXL_20221230_132959315](https://user-images.githubusercontent.com/69217508/210075462-dcc78768-633a-44db-850f-dbbd578431dc.jpg)
+![PXL_20221230_133004093](https://user-images.githubusercontent.com/69217508/210075467-ddb4fdc8-7f5c-4d41-9224-7fc812491244.jpg)
+
